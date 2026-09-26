@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\students.html",
+      "PackagePath": "staticwebassets\\students.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SchoolManagementSystem.props",
+      "PackagePath": "build\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SchoolManagementSystem.props",
+      "PackagePath": "buildTransitive\\SchoolManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

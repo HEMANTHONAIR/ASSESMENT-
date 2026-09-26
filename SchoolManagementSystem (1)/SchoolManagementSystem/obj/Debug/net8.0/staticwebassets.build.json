@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "S+7bsHN9SLvvLR5BcbP3YQLICdxArX5sasj9+vUYaks=",
+  "Source": "SchoolManagementSystem",
+  "BasePath": "_content/SchoolManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolManagementSystem\\wwwroot",
+      "Source": "SchoolManagementSystem",
+      "ContentRoot": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhz7a2g0tq",
+      "Integrity": "kb6OFg6fAXKQs3q/q5gqTxlql81DCl8tvZ03AcMJLow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\index.html",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jl7b7e75ck",
+      "Integrity": "yfUC0sOllqL74+IU+VJ1MmGA+qwUN8H7DuIsJhFvYYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\register.html",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67ibvekagg",
+      "Integrity": "4meDAfvRKM4YSryh7brjh9qQO5k/TofU0NQMAcp+2FI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    },
+    {
+      "Identity": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\students.html",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "students#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvrqu1u6bn",
+      "Integrity": "rPGe6WNGKtNF3WGeNuU8rNFyEuUHzHoFADh5qNWZxMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\students.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kb6OFg6fAXKQs3q/q5gqTxlql81DCl8tvZ03AcMJLow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kb6OFg6fAXKQs3q/q5gqTxlql81DCl8tvZ03AcMJLow="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.rhz7a2g0tq.css",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kb6OFg6fAXKQs3q/q5gqTxlql81DCl8tvZ03AcMJLow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhz7a2g0tq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kb6OFg6fAXKQs3q/q5gqTxlql81DCl8tvZ03AcMJLow="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfUC0sOllqL74+IU+VJ1MmGA+qwUN8H7DuIsJhFvYYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfUC0sOllqL74+IU+VJ1MmGA+qwUN8H7DuIsJhFvYYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.jl7b7e75ck.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfUC0sOllqL74+IU+VJ1MmGA+qwUN8H7DuIsJhFvYYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jl7b7e75ck"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfUC0sOllqL74+IU+VJ1MmGA+qwUN8H7DuIsJhFvYYg="
+        }
+      ]
+    },
+    {
+      "Route": "register.67ibvekagg.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4meDAfvRKM4YSryh7brjh9qQO5k/TofU0NQMAcp+2FI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67ibvekagg"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4meDAfvRKM4YSryh7brjh9qQO5k/TofU0NQMAcp+2FI="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4meDAfvRKM4YSryh7brjh9qQO5k/TofU0NQMAcp+2FI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4meDAfvRKM4YSryh7brjh9qQO5k/TofU0NQMAcp+2FI="
+        }
+      ]
+    },
+    {
+      "Route": "students.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\students.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rPGe6WNGKtNF3WGeNuU8rNFyEuUHzHoFADh5qNWZxMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rPGe6WNGKtNF3WGeNuU8rNFyEuUHzHoFADh5qNWZxMk="
+        }
+      ]
+    },
+    {
+      "Route": "students.wvrqu1u6bn.html",
+      "AssetFile": "C:\\Users\\thehe\\OneDrive\\Desktop\\SchoolManagementSystem (1)\\SchoolManagementSystem\\wwwroot\\students.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rPGe6WNGKtNF3WGeNuU8rNFyEuUHzHoFADh5qNWZxMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Sep 2026 00:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvrqu1u6bn"
+        },
+        {
+          "Name": "label",
+          "Value": "students.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rPGe6WNGKtNF3WGeNuU8rNFyEuUHzHoFADh5qNWZxMk="
+        }
+      ]
+    }
+  ]
+}
